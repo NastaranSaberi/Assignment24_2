@@ -95,7 +95,7 @@
             </div>
           </div>
 
-          <a href="index2.php">
+          <a href="new_contact">
               <div class="new_contact">
                   <img src="Images/312-256.webp" alt="add_contact" width="40px">
                   افزودن مخاطب جدید
