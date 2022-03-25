@@ -55,7 +55,7 @@
 
 
         <div class="form mt-5">
-            <form method="post" action="new_message.php">
+            <form method="post" action="new_contact_data.php">
                 <div class="mb-3 ">
                     <label class="form-label">نام</label>
                     <input type="text" name="first_name" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
